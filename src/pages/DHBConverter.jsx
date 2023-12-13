@@ -38,7 +38,7 @@ export const DHBConverter = () => {
                                 break;
                         }
 
-            if (numeric) {
+            if (numeric || numeric === 0) {
                 for (let e of Object.keys(setters)) {
                     switch (e) {
                         case 'decimal':
