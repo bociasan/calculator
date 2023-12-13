@@ -1,5 +1,6 @@
 {
   "name": "binaryhelper",
+  "homepage": "https://bociasan.github.io/calculator",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
